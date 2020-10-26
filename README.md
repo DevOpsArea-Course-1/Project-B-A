@@ -1,5 +1,10 @@
 ## Jenkins/Java/Artifactory integration 
 
+# you have to create 2 folders
+- jenkins
+- artifactory
+Then chmod -R 777 jenkins artifactory
+
 # Jenkins 
 - port 8080
 - username: devops
